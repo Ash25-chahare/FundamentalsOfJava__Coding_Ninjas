@@ -1,18 +1,9 @@
-1. Primitive data type 'long' is having size _______ byte(s) in Java Programming.
-A: 8
-2. Which of the following data type stores longest decimal number ?
-A: double
-3. Which of these values can be assigned to a boolean variable in Java?
-A: c.true or false
-4. Which of these is a valid variable name ?
-A: var1
-5. Compiler never assigns a default value to an uninitialized local variable in Java Programming. Whether this statement is true or false ?
-A: True
-6. What is the output of the following code if the input is : 5 10 ?
-A: 15
-7. What is the output of the following code if the input string is "Coding Ninjas"?
-Scanner s = new Scanner(System.in);
-String str;
-str = s.next();
-System.out.print(str);
-A: 
+1. 8
+2. double
+3. c.true or false
+4. b. var1
+5. a. true
+6. c.
+7. b.
+8. b.
+9. c.
